@@ -10,3 +10,6 @@ layout: home
 | Computer  | $1600 | one |
 | Phone     |        $12 | three |
 | Pipe      | $1 | eleven |
+
+
+## and a lower title
